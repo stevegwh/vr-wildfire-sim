@@ -1,16 +1,7 @@
----
-title: VR Training - Wildfire
-description: 
-date: "2023-03-01T12:51:21Z"
-jobDate: 2023
-work: [Unity, VR, C#]
-techs: [Unity, VR, C#]
-designs: [Research Project]
-thumbnail: vr-wildfire-simulation/thumbnail.jpg
-projectUrl: 
----
+# VR Wildfire Simulation
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/FBuQZ-xmtUs?si=gfGlyBy4IOitGOTS" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+## Video Demonstration
+A video demonstration is available here: [https://www.youtube.com/watch?v=9yCKn3IyhPM](https://www.youtube.com/watch?v=9yCKn3IyhPM)
 
 ## Description
 
